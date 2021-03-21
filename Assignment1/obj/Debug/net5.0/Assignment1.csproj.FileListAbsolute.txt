@@ -1,0 +1,124 @@
+C:\Users\Mihail\RiderProjects\Assignment1\Assignment1\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Mihail\RiderProjects\Assignment1\Assignment1\bin\Debug\net5.0\appsettings.json
+C:\Users\Mihail\RiderProjects\Assignment1\Assignment1\bin\Debug\net5.0\Assignment1.StaticWebAssets.xml
+C:\Users\Mihail\RiderProjects\Assignment1\Assignment1\bin\Debug\net5.0\Assignment1.exe
+C:\Users\Mihail\RiderProjects\Assignment1\Assignment1\bin\Debug\net5.0\Assignment1.deps.json
+C:\Users\Mihail\RiderProjects\Assignment1\Assignment1\bin\Debug\net5.0\Assignment1.runtimeconfig.json
+C:\Users\Mihail\RiderProjects\Assignment1\Assignment1\bin\Debug\net5.0\Assignment1.runtimeconfig.dev.json
+C:\Users\Mihail\RiderProjects\Assignment1\Assignment1\bin\Debug\net5.0\Assignment1.dll
+C:\Users\Mihail\RiderProjects\Assignment1\Assignment1\bin\Debug\net5.0\ref\Assignment1.dll
+C:\Users\Mihail\RiderProjects\Assignment1\Assignment1\bin\Debug\net5.0\Assignment1.pdb
+C:\Users\Mihail\RiderProjects\Assignment1\Assignment1\bin\Debug\net5.0\Assignment1.Views.dll
+C:\Users\Mihail\RiderProjects\Assignment1\Assignment1\bin\Debug\net5.0\Assignment1.Views.pdb
+C:\Users\Mihail\RiderProjects\Assignment1\Assignment1\obj\Debug\net5.0\Assignment1.csprojAssemblyReference.cache
+C:\Users\Mihail\RiderProjects\Assignment1\Assignment1\obj\Debug\net5.0\Assignment1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mihail\RiderProjects\Assignment1\Assignment1\obj\Debug\net5.0\Assignment1.AssemblyInfoInputs.cache
+C:\Users\Mihail\RiderProjects\Assignment1\Assignment1\obj\Debug\net5.0\Assignment1.AssemblyInfo.cs
+C:\Users\Mihail\RiderProjects\Assignment1\Assignment1\obj\Debug\net5.0\Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\Mihail\RiderProjects\Assignment1\Assignment1\obj\Debug\net5.0\Assignment1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mihail\RiderProjects\Assignment1\Assignment1\obj\Debug\net5.0\Assignment1.RazorComponent.input.cache
+C:\Users\Mihail\RiderProjects\Assignment1\Assignment1\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+C:\Users\Mihail\RiderProjects\Assignment1\Assignment1\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\Mihail\RiderProjects\Assignment1\Assignment1\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\Mihail\RiderProjects\Assignment1\Assignment1\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\Mihail\RiderProjects\Assignment1\Assignment1\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\Mihail\RiderProjects\Assignment1\Assignment1\obj\Debug\net5.0\Assignment1.RazorComponent.output.cache
+C:\Users\Mihail\RiderProjects\Assignment1\Assignment1\obj\Debug\net5.0\RazorDeclaration\Assignment1.dll
+C:\Users\Mihail\RiderProjects\Assignment1\Assignment1\obj\Debug\net5.0\Assignment1.TagHelpers.input.cache
+C:\Users\Mihail\RiderProjects\Assignment1\Assignment1\obj\Debug\net5.0\Assignment1.TagHelpers.output.cache
+C:\Users\Mihail\RiderProjects\Assignment1\Assignment1\obj\Debug\net5.0\Assignment1.RazorCoreGenerate.cache
+C:\Users\Mihail\RiderProjects\Assignment1\Assignment1\obj\Debug\net5.0\Razor\App.razor.g.cs
+C:\Users\Mihail\RiderProjects\Assignment1\Assignment1\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+C:\Users\Mihail\RiderProjects\Assignment1\Assignment1\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+C:\Users\Mihail\RiderProjects\Assignment1\Assignment1\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\Mihail\RiderProjects\Assignment1\Assignment1\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\Mihail\RiderProjects\Assignment1\Assignment1\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Mihail\RiderProjects\Assignment1\Assignment1\obj\Debug\net5.0\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\Mihail\RiderProjects\Assignment1\Assignment1\obj\Debug\net5.0\Assignment1.RazorAssemblyInfo.cache
+C:\Users\Mihail\RiderProjects\Assignment1\Assignment1\obj\Debug\net5.0\Assignment1.RazorAssemblyInfo.cs
+C:\Users\Mihail\RiderProjects\Assignment1\Assignment1\obj\Debug\net5.0\staticwebassets\Assignment1.StaticWebAssets.Manifest.cache
+C:\Users\Mihail\RiderProjects\Assignment1\Assignment1\obj\Debug\net5.0\staticwebassets\Assignment1.StaticWebAssets.xml
+C:\Users\Mihail\RiderProjects\Assignment1\Assignment1\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\Mihail\RiderProjects\Assignment1\Assignment1\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\Mihail\RiderProjects\Assignment1\Assignment1\obj\Debug\net5.0\scopedcss\bundle\Assignment1.styles.css
+C:\Users\Mihail\RiderProjects\Assignment1\Assignment1\obj\Debug\net5.0\scopedcss\projectbundle\Assignment1.bundle.scp.css
+C:\Users\Mihail\RiderProjects\Assignment1\Assignment1\obj\Debug\net5.0\Assignment1.RazorTargetAssemblyInfo.cache
+C:\Users\Mihail\RiderProjects\Assignment1\Assignment1\obj\Debug\net5.0\Assignment1.RazorTargetAssemblyInfo.cs
+C:\Users\Mihail\RiderProjects\Assignment1\Assignment1\obj\Debug\net5.0\Assignment1.Views.pdb
+C:\Users\Mihail\RiderProjects\Assignment1\Assignment1\obj\Debug\net5.0\Assignment1.dll
+C:\Users\Mihail\RiderProjects\Assignment1\Assignment1\obj\Debug\net5.0\ref\Assignment1.dll
+C:\Users\Mihail\RiderProjects\Assignment1\Assignment1\obj\Debug\net5.0\Assignment1.pdb
+C:\Users\Mihail\RiderProjects\Assignment1\Assignment1\obj\Debug\net5.0\Assignment1.genruntimeconfig.cache
+C:\Users\Mihail\RiderProjects\Assignment1\Assignment1\obj\Debug\net5.0\Assignment1.csproj.CopyComplete
+C:\Users\Mihail\RiderProjects\Assignment1\Assignment1\bin\Debug\net5.0\adults.json
+C:\Users\Mihail\RiderProjects\Assignment1\Assignment1\bin\Debug\net5.0\families.json
+C:\Users\Mihail\RiderProjects\Assignment1\Assignment1\obj\Debug\net5.0\RazorDeclaration\Pages\AddAdult.razor.g.cs
+C:\Users\Mihail\RiderProjects\Assignment1\Assignment1\obj\Debug\net5.0\Razor\Pages\AddAdult.razor.g.cs
+C:\Users\Mihail\RiderProjects\Assignment1\Assignment1\obj\Debug\net5.0\RazorDeclaration\Pages\EditAdult.razor.g.cs
+C:\Users\Mihail\RiderProjects\Assignment1\Assignment1\obj\Debug\net5.0\RazorDeclaration\Pages\AdultList.razor.g.cs
+C:\Users\Mihail\RiderProjects\Assignment1\Assignment1\obj\Debug\net5.0\Razor\Pages\AdultList.razor.g.cs
+C:\Users\Mihail\RiderProjects\Assignment1\Assignment1\obj\Debug\net5.0\Razor\Pages\EditAdult.razor.g.cs
+C:\Users\Mihail\RiderProjects\Assignment1\Assignment1\bin\Debug\net5.0\LiveCharts.dll
+C:\Users\Mihail\RiderProjects\Assignment1\Assignment1\obj\Debug\net5.0\RazorDeclaration\Pages\Charts.razor.g.cs
+C:\Users\Mihail\RiderProjects\Assignment1\Assignment1\obj\Debug\net5.0\Razor\Pages\Charts.razor.g.cs
+C:\Users\iliya\Desktop\School\3rd Semester\DNP\ass1\Assignment1\Assignment1\bin\Debug\net5.0\adults.json
+C:\Users\iliya\Desktop\School\3rd Semester\DNP\ass1\Assignment1\Assignment1\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\iliya\Desktop\School\3rd Semester\DNP\ass1\Assignment1\Assignment1\bin\Debug\net5.0\appsettings.json
+C:\Users\iliya\Desktop\School\3rd Semester\DNP\ass1\Assignment1\Assignment1\bin\Debug\net5.0\families.json
+C:\Users\iliya\Desktop\School\3rd Semester\DNP\ass1\Assignment1\Assignment1\bin\Debug\net5.0\Assignment1.StaticWebAssets.xml
+C:\Users\iliya\Desktop\School\3rd Semester\DNP\ass1\Assignment1\Assignment1\bin\Debug\net5.0\Assignment1.exe
+C:\Users\iliya\Desktop\School\3rd Semester\DNP\ass1\Assignment1\Assignment1\bin\Debug\net5.0\Assignment1.deps.json
+C:\Users\iliya\Desktop\School\3rd Semester\DNP\ass1\Assignment1\Assignment1\bin\Debug\net5.0\Assignment1.runtimeconfig.json
+C:\Users\iliya\Desktop\School\3rd Semester\DNP\ass1\Assignment1\Assignment1\bin\Debug\net5.0\Assignment1.runtimeconfig.dev.json
+C:\Users\iliya\Desktop\School\3rd Semester\DNP\ass1\Assignment1\Assignment1\bin\Debug\net5.0\Assignment1.dll
+C:\Users\iliya\Desktop\School\3rd Semester\DNP\ass1\Assignment1\Assignment1\bin\Debug\net5.0\ref\Assignment1.dll
+C:\Users\iliya\Desktop\School\3rd Semester\DNP\ass1\Assignment1\Assignment1\bin\Debug\net5.0\Assignment1.pdb
+C:\Users\iliya\Desktop\School\3rd Semester\DNP\ass1\Assignment1\Assignment1\bin\Debug\net5.0\Assignment1.Views.dll
+C:\Users\iliya\Desktop\School\3rd Semester\DNP\ass1\Assignment1\Assignment1\bin\Debug\net5.0\Assignment1.Views.pdb
+C:\Users\iliya\Desktop\School\3rd Semester\DNP\ass1\Assignment1\Assignment1\bin\Debug\net5.0\LiveCharts.dll
+C:\Users\iliya\Desktop\School\3rd Semester\DNP\ass1\Assignment1\Assignment1\obj\Debug\net5.0\Assignment1.csprojAssemblyReference.cache
+C:\Users\iliya\Desktop\School\3rd Semester\DNP\ass1\Assignment1\Assignment1\obj\Debug\net5.0\Assignment1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iliya\Desktop\School\3rd Semester\DNP\ass1\Assignment1\Assignment1\obj\Debug\net5.0\Assignment1.AssemblyInfoInputs.cache
+C:\Users\iliya\Desktop\School\3rd Semester\DNP\ass1\Assignment1\Assignment1\obj\Debug\net5.0\Assignment1.AssemblyInfo.cs
+C:\Users\iliya\Desktop\School\3rd Semester\DNP\ass1\Assignment1\Assignment1\obj\Debug\net5.0\Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\iliya\Desktop\School\3rd Semester\DNP\ass1\Assignment1\Assignment1\obj\Debug\net5.0\Assignment1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\iliya\Desktop\School\3rd Semester\DNP\ass1\Assignment1\Assignment1\obj\Debug\net5.0\Assignment1.RazorComponent.input.cache
+C:\Users\iliya\Desktop\School\3rd Semester\DNP\ass1\Assignment1\Assignment1\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+C:\Users\iliya\Desktop\School\3rd Semester\DNP\ass1\Assignment1\Assignment1\obj\Debug\net5.0\RazorDeclaration\Pages\AddAdult.razor.g.cs
+C:\Users\iliya\Desktop\School\3rd Semester\DNP\ass1\Assignment1\Assignment1\obj\Debug\net5.0\RazorDeclaration\Pages\AdultList.razor.g.cs
+C:\Users\iliya\Desktop\School\3rd Semester\DNP\ass1\Assignment1\Assignment1\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\iliya\Desktop\School\3rd Semester\DNP\ass1\Assignment1\Assignment1\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\iliya\Desktop\School\3rd Semester\DNP\ass1\Assignment1\Assignment1\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\iliya\Desktop\School\3rd Semester\DNP\ass1\Assignment1\Assignment1\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\iliya\Desktop\School\3rd Semester\DNP\ass1\Assignment1\Assignment1\obj\Debug\net5.0\Assignment1.RazorComponent.output.cache
+C:\Users\iliya\Desktop\School\3rd Semester\DNP\ass1\Assignment1\Assignment1\obj\Debug\net5.0\RazorDeclaration\Assignment1.dll
+C:\Users\iliya\Desktop\School\3rd Semester\DNP\ass1\Assignment1\Assignment1\obj\Debug\net5.0\Assignment1.TagHelpers.input.cache
+C:\Users\iliya\Desktop\School\3rd Semester\DNP\ass1\Assignment1\Assignment1\obj\Debug\net5.0\Assignment1.TagHelpers.output.cache
+C:\Users\iliya\Desktop\School\3rd Semester\DNP\ass1\Assignment1\Assignment1\obj\Debug\net5.0\Assignment1.RazorCoreGenerate.cache
+C:\Users\iliya\Desktop\School\3rd Semester\DNP\ass1\Assignment1\Assignment1\obj\Debug\net5.0\Razor\App.razor.g.cs
+C:\Users\iliya\Desktop\School\3rd Semester\DNP\ass1\Assignment1\Assignment1\obj\Debug\net5.0\Razor\Pages\AddAdult.razor.g.cs
+C:\Users\iliya\Desktop\School\3rd Semester\DNP\ass1\Assignment1\Assignment1\obj\Debug\net5.0\Razor\Pages\AdultList.razor.g.cs
+C:\Users\iliya\Desktop\School\3rd Semester\DNP\ass1\Assignment1\Assignment1\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+C:\Users\iliya\Desktop\School\3rd Semester\DNP\ass1\Assignment1\Assignment1\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+C:\Users\iliya\Desktop\School\3rd Semester\DNP\ass1\Assignment1\Assignment1\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\iliya\Desktop\School\3rd Semester\DNP\ass1\Assignment1\Assignment1\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\iliya\Desktop\School\3rd Semester\DNP\ass1\Assignment1\Assignment1\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\iliya\Desktop\School\3rd Semester\DNP\ass1\Assignment1\Assignment1\obj\Debug\net5.0\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\iliya\Desktop\School\3rd Semester\DNP\ass1\Assignment1\Assignment1\obj\Debug\net5.0\Assignment1.RazorAssemblyInfo.cache
+C:\Users\iliya\Desktop\School\3rd Semester\DNP\ass1\Assignment1\Assignment1\obj\Debug\net5.0\Assignment1.RazorAssemblyInfo.cs
+C:\Users\iliya\Desktop\School\3rd Semester\DNP\ass1\Assignment1\Assignment1\obj\Debug\net5.0\staticwebassets\Assignment1.StaticWebAssets.Manifest.cache
+C:\Users\iliya\Desktop\School\3rd Semester\DNP\ass1\Assignment1\Assignment1\obj\Debug\net5.0\staticwebassets\Assignment1.StaticWebAssets.xml
+C:\Users\iliya\Desktop\School\3rd Semester\DNP\ass1\Assignment1\Assignment1\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\iliya\Desktop\School\3rd Semester\DNP\ass1\Assignment1\Assignment1\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\iliya\Desktop\School\3rd Semester\DNP\ass1\Assignment1\Assignment1\obj\Debug\net5.0\scopedcss\bundle\Assignment1.styles.css
+C:\Users\iliya\Desktop\School\3rd Semester\DNP\ass1\Assignment1\Assignment1\obj\Debug\net5.0\scopedcss\projectbundle\Assignment1.bundle.scp.css
+C:\Users\iliya\Desktop\School\3rd Semester\DNP\ass1\Assignment1\Assignment1\obj\Debug\net5.0\Assignment1.RazorTargetAssemblyInfo.cache
+C:\Users\iliya\Desktop\School\3rd Semester\DNP\ass1\Assignment1\Assignment1\obj\Debug\net5.0\Assignment1.RazorTargetAssemblyInfo.cs
+C:\Users\iliya\Desktop\School\3rd Semester\DNP\ass1\Assignment1\Assignment1\obj\Debug\net5.0\Assignment1.Views.pdb
+C:\Users\iliya\Desktop\School\3rd Semester\DNP\ass1\Assignment1\Assignment1\obj\Debug\net5.0\Assignment1.csproj.CopyComplete
+C:\Users\iliya\Desktop\School\3rd Semester\DNP\ass1\Assignment1\Assignment1\obj\Debug\net5.0\Assignment1.dll
+C:\Users\iliya\Desktop\School\3rd Semester\DNP\ass1\Assignment1\Assignment1\obj\Debug\net5.0\ref\Assignment1.dll
+C:\Users\iliya\Desktop\School\3rd Semester\DNP\ass1\Assignment1\Assignment1\obj\Debug\net5.0\Assignment1.pdb
+C:\Users\iliya\Desktop\School\3rd Semester\DNP\ass1\Assignment1\Assignment1\obj\Debug\net5.0\Assignment1.genruntimeconfig.cache
+C:\Users\iliya\Desktop\School\3rd Semester\DNP\ass1\Assignment1\Assignment1\obj\Debug\net5.0\RazorDeclaration\Pages\Login.razor.g.cs
+C:\Users\iliya\Desktop\School\3rd Semester\DNP\ass1\Assignment1\Assignment1\obj\Debug\net5.0\Razor\Pages\Login.razor.g.cs

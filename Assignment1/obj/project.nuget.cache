@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "h31lOWwBwRbIZDAmUL+wbVoJE3g7ATnj+ptb/DAIob+4i0Tuy6Tk8v2Wkkdkkttv5jQZawcacxMNk+990Y16kw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\iliya\\Desktop\\School\\3rd Semester\\DNP\\ass1\\Assignment1\\Assignment1\\Assignment1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\iliya\\.nuget\\packages\\livecharts\\0.9.7\\livecharts.0.9.7.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'LiveCharts 0.9.7' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0'. This package may not be fully compatible with your project.",
+      "libraryId": "LiveCharts",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}

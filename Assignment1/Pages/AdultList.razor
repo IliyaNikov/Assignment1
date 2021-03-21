@@ -1,0 +1,163 @@
+﻿@page "/AdultList"
+@using Models
+@inject Data.IAdultData AdultData
+@inject NavigationManager NavigationManager
+
+<h3>Adult List</h3>
+<p> Filter by User Id: <input type="number" @oninput="@((arg) => FilterByUserId(arg))" style="width:50px"/> </p>
+
+
+@if (adultsToShow == null)
+{
+    <p>
+        <em>Loading...</em>
+    </p>
+}
+else if (!adultsToShow.Any())
+{
+    <p>
+        <em>No ToDo items exist. Please add some.</em>
+    </p>
+}
+else
+{
+    <table class="table">
+        <thead>
+        <tr>
+            <th>User ID</th>
+            <th>First Name</th>
+            <th>Last Name</th>
+            <th>Hair Color</th>
+            <th>Eyes Color</th>
+            <th>Age</th>
+            <th>Weight</th>
+            <th>Height</th>
+            <th>Sex</th>
+            <th>Job Title</th>
+            <th>Salary</th>
+            <th>Edit</th>
+        </tr>
+        </thead>
+
+        <tbody>
+        @foreach (var item in adultsToShow)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.FirstName</td>
+                <td>@item.LastName</td>
+                <td>@item.HairColor</td>
+                <td>@item.EyeColor</td>
+                <td>@item.Age</td>
+                <td>@item.Weight</td>
+                <td>@item.Height</td>
+                <td>@item.Sex</td>
+                <td>@item.JobTitle?.JobTitle</td>
+                <td>@item.JobTitle?.Salary</td>
+                <td>
+                    <button @onclick="@(() => RemoveAdult(item.Id))">
+                        <i class="oi oi-trash" style="color:#ff0000"/>
+                    </button>
+                </td>
+
+                @*<td>
+                    <input type="checkbox" checked=@item.IsCompleted @onchange="@((arg) => CompletedChange(arg, item))"/>
+                </td>
+                <td>
+                    <button @onclick="@(() => RemoveTodo(item.TodoId))">
+                        <i class="oi oi-trash" style="color:#ff0000"/>
+                    </button>
+                </td>
+                <td>
+                    <button @onclick="@(() => Edit(item.TodoId))">
+                        <i class="oi oi-pencil" style="color:#1b6ec2"/>
+                    </button>
+                </td>*@
+            </tr>
+        }
+        </tbody>
+    </table>
+}
+
+
+
+@code {
+    private IList<Adult> allAdults;
+    private IList<Adult> adultsToShow;
+
+    private int? filterById;
+    private int? filterByAge;
+
+    /**
+     * Initial display
+     */
+    protected override async Task OnInitializedAsync()
+    {
+        allAdults = AdultData.GetAdults();
+        adultsToShow = allAdults;
+        
+    }
+
+    /**
+     * Filters
+     */
+    private void ExecuteFilter()
+    {
+        adultsToShow = allAdults.Where(a =>
+            (filterById != null && a.Id == filterById || filterById == null) &&
+            (filterByAge != null && a.Age == filterByAge || filterByAge == null)
+            ).ToList();
+    }
+
+    private void FilterByUserId(ChangeEventArgs changeEventArgs)
+    {
+        filterById = null;
+        try
+        {
+            filterById = int.Parse(changeEventArgs.Value.ToString());
+        }
+        catch (Exception e)
+        {
+            Console.WriteLine(e);
+        }
+        ExecuteFilter();
+    }
+
+    public void FilterByAge(ChangeEventArgs changeEventArgs)
+    {
+        filterByAge = null;
+        try
+        {
+            filterByAge = int.Parse(changeEventArgs.Value.ToString());
+        }
+        catch (Exception e)
+        {
+            Console.WriteLine(e);
+        }
+        ExecuteFilter();
+    }
+
+    /**
+     * Adding, editing and removing
+     */
+
+    public void EditAdult(int Id)
+    {
+        NavigationManager.NavigateTo($"EditAdult/{Id}");
+    }
+
+    public void RemoveAdult(int id)
+    {
+        Adult toRemove = allAdults.First(a => a.Id == id);
+        AdultData.RemoveAdult(id); //Remove from storage
+        allAdults.Remove(toRemove); //Remove from list
+        adultsToShow.Remove(toRemove); //Remove from display
+    }
+
+
+
+
+
+
+
+}

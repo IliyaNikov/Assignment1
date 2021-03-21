@@ -1,0 +1,49 @@
+﻿@page "/AddAdult"
+
+@using Assignment1.Data
+@using Models
+
+@inject IAdultData AdultData
+@inject NavigationManager NavigationManager
+
+<h3>Add adult</h3>
+<AuthorizeView Policy="SecurityLevel" Context="Form">
+<EditForm Model="@newAdultItem"OnValidSubmit="@AddNewAdult">
+    <DataAnnotationsValidator/> 
+    <ValidationSummary/>
+    <div class="form-group"> First Name:<br/> <InputText @bind-Value="newAdultItem.FirstName"/> </div>
+    <div class="form-group"> Last Name:<br/> <InputText @bind-Value="newAdultItem.LastName"/></div>
+    <div class="form-group"> Height:<br/> <InputNumber @bind-Value="newAdultItem.Height"/></div>
+    <div class="form-group"> Weight:<br/> <InputNumber @bind-Value="newAdultItem.Weight"/></div>
+    <div class="form-group"> Sex:<br/> <InputText @bind-Value="newAdultItem.Sex"/></div>
+    <div class="form-group"> Hair Color:<br/> <InputText @bind-Value="newAdultItem.HairColor"/></div>
+    <div class="form-group"> Eye Color:<br/> <InputText @bind-Value="newAdultItem.EyeColor"/></div>
+    <div class="form-group"> Job title:<br/> <InputText @bind-Value="jobTitle"/></div>
+    <div class="form-group"> Salary:<br/> <InputNumber @bind-Value="salary"/></div>
+    <p class="actions">
+        <button class="btn btn-outline-dark" type="submit">Create</button>
+    </p>
+    
+</EditForm>
+</AuthorizeView>
+
+@code {
+    private Adult newAdultItem = new Adult();
+
+    private String jobTitle;
+    private int salary;
+    
+
+    private void AddNewAdult()
+    {
+        newAdultItem.JobTitle = new Job()
+        {
+            JobTitle = jobTitle,
+            Salary = salary
+        };
+        
+        AdultData.AddAdult(newAdultItem);
+        NavigationManager.NavigateTo("/AdultList");
+    }
+
+}
